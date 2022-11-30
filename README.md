@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Carolino</h1>
 <h3 align="center">Future full-Stack programmer & traveller!</h3>
 
-<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqAumNiASc3yCFR33UZ-6Twf01uy3xqqr6yA&usqp=CAU">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniocarol&label=Profile%20views&color=0e75b6&style=flat" alt="antoniocarol" /> </p>
 
 - 🌱 I’m currently learning **React, JavaScript**
