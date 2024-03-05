@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniocarol&label=Profile%20views&color=0e75b6&style=flat" alt="antoniocarol" /> </p>
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **Cloud(AWS/AZURE) e SOLID**
 
 - 📫 How to reach me **carolinosfinances@gmail.com**
 
