@@ -95,7 +95,7 @@ let focus: Vec<&str> = vec![
   <a href="https://instagram.com/corinweb3" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:contact@corin.dev" target="_blank">
+  <a href="mailto:carolinosfinances@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
