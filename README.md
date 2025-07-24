@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://github.com/antoniocarol)
+[![MasterHead](<img width="1024" height="1536" alt="ChatGPT Image 24 de jul  de 2025, 09_43_48_11zon" src="https://github.com/user-attachments/assets/5c5b7d54-58a2-4db4-abca-9489a37a32a8" />)](https://github.com/antoniocarol)
 
 <h1 align="center">🚀 Antonio Carolino</h1>
 <h3 align="center">Blockchain Developer | Building the Future of Decentralized Finance</h3>
